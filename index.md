@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/fachriw/tupptwitter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Privacy Policy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Your privacy is important to us. It is TUPP's policy to respect your privacy regarding any information we may collect from you across our website, https://github.com/fachriw/tupptwitter/blob/gh-pages/index.md, and other sites we own and operate.
 
-### Markdown
+We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
 
-```markdown
-Syntax highlighted code block
+We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
 
-# Header 1
-## Header 2
-### Header 3
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
 
-- Bulleted
-- List
+You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
 
-1. Numbered
-2. List
+Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
-**Bold** and _Italic_ and `Code` text
+This policy is effective as of 31 August 2020.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fachriw/tupptwitter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Privacy Policy created with GetTerms.
